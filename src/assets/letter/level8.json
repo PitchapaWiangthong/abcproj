@@ -258,7 +258,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/กระดาษ/ดาด.mp3",
+                "sss":"sound/กระดาษ/ดาษ.mp3",
                 "swap":"0"
             },
             {
@@ -716,7 +716,13 @@
                 "swap":"1"
             },
             {
-                "char": "ีย",
+                "char": "ี",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "ย",
                 "color": "green",
                 "sss":"vowel/เอีย.mp3",
                 "swap":"0"
@@ -898,6 +904,12 @@
             {
                 "char": "ื",
                 "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "อ",
+                "color": "green",
                 "sss":"vowel/อือ.mp3",
                 "swap":"0"
             },
@@ -1008,7 +1020,13 @@
                 "swap":"1"
             },
             {
-                "char": "ือ",
+                "char": "ื",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "อ",
                 "color": "green",
                 "sss":"vowel/เอือ.mp3",
                 "swap":"0"
@@ -1122,7 +1140,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/กระหาย/หระ.mp3",
+                "sss":"sound/กระหาย/กระ.mp3",
                 "swap":"0"
             },
             {
@@ -1650,7 +1668,13 @@
                 "swap":"0"
             },
             {
-                "char": "ัว",
+                "char": "ั",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "ว",
                 "color": "green",
                 "sss":"vowel/อัว.mp3",
                 "swap":"0"
@@ -1942,7 +1966,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/กล้าหาญ/หาน.mp3",
+                "sss":"sound/กล้าหาญ/หาญ.mp3",
                 "swap":"0"
             },
             {
@@ -2208,7 +2232,7 @@
                 "swap":"0"
             },
             {
-                "char": "",
+                "char": "้",
                 "color": "blue",
                 "sss":"sound/กำพร้า/โท.mp3",
                 "swap":"1"
@@ -2270,7 +2294,13 @@
                 "swap":"0"
             },
             {
-                "char": "ัว",
+                "char": "ั",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "ว",
                 "color": "green",
                 "sss":"vowel/อัว.mp3",
                 "swap":"0"
@@ -2365,7 +2395,7 @@
             {
                 "char": "อะ",
                 "color": "green",
-                "sss":"vowel/เอือะ.mp3",
+                "sss":"vowel/เออะ.mp3",
                 "swap":"0"
             },
             {
@@ -2395,7 +2425,13 @@
                 "swap":"2"
             },
             {
-                "char": "ือ",
+                "char": "ื",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "อ",
                 "color": "green",
                 "sss":"vowel/เอือ.mp3",
                 "swap":"0"
@@ -2409,7 +2445,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/เกลื่อน/เกลือก.mp3",
+                "sss":"sound/เกลือก/เกลือก.mp3",
                 "swap":"0"
             }
         ],
@@ -2433,7 +2469,13 @@
                 "swap":"2"
             },
             {
-                "char": "ือ",
+                "char": "ื",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "อ",
                 "color": "green",
                 "sss":"vowel/เอือ.mp3",
                 "swap":"0"
@@ -2489,7 +2531,13 @@
                 "swap":"2"
             },
             {
-                "char": "ีย",
+                "char": "ี",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "ย",
                 "color": "green",
                 "sss":"vowel/เอีย.mp3",
                 "swap":"0"
@@ -2824,7 +2872,13 @@
                 "swap":"2"
             },
             {
-                "char": "ีย",
+                "char": "ี",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "ย",
                 "color": "green",
                 "sss":"vowel/เอีย.mp3",
                 "swap":"0"
@@ -3152,9 +3206,9 @@
                 "swap":"0"
             },
             {
-                "char": "า",
+                "char": "แ",
                 "color": "green",
-                "sss":"vowel/อา.mp3",
+                "sss":"vowel/แอ.mp3",
                 "swap":"2"
             },
             {
@@ -3493,7 +3547,7 @@
                 "swap":"0"
             },
             {
-                "char": "ล",
+                "char": "ร",
                 "color": "black",
                 "sss":"consonant/รอ.mp3",
                 "swap":"0"
@@ -4795,7 +4849,9 @@
                 "color": "",
                 "sss":"sound/ความสุข/ความสุข.mp3",
                 "swap":"0"
-            },
+            }
+        ],
+        [
             {
                 "char": "ค",
                 "color": "black",
@@ -5150,7 +5206,13 @@
                 "swap":"2"
             },
             {
-                "char": "ีย",
+                "char": "ี",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "ย",
                 "color": "green",
                 "sss":"vowel/เอีย.mp3",
                 "swap":"0"
@@ -5188,7 +5250,13 @@
                 "swap":"2"
             },
             {
-                "char": "ือ",
+                "char": "ื",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "อ",
                 "color": "green",
                 "sss":"vowel/เอือ.mp3",
                 "swap":"0"
@@ -5300,7 +5368,13 @@
                 "swap":"2"
             },
             {
-                "char": "ือ",
+                "char": "ื",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "อ",
                 "color": "green",
                 "sss":"vowel/เอือ.mp3",
                 "swap":"0"
@@ -5863,7 +5937,7 @@
                 "char": "่",
                 "color": "blue",
                 "sss":"sound/เช้าตรู่/เอก.mp3",
-                "swap":"1"
+                "swap":"0"
             },
             {
                 "char": "",
@@ -5913,7 +5987,7 @@
                 "char": "้",
                 "color": "blue",
                 "sss":"sound/ไซร้/โท.mp3",
-                "swap":"1"
+                "swap":"0"
             },
             {
                 "char": "",
@@ -6399,7 +6473,7 @@
                 "char": "่",
                 "color": "blue",
                 "sss":"sound/ตะไคร่/เอก.mp3",
-                "swap":"1"
+                "swap":"0"
             },
             {
                 "char": "",
@@ -6467,7 +6541,7 @@
                 "char": "่",
                 "color": "blue",
                 "sss":"sound/ตะไคร้/โท.mp3",
-                "swap":"1"
+                "swap":"0"
             },
             {
                 "char": "",
@@ -6533,7 +6607,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/ตีเกราะ/คีเกราะ.mp3",
+                "sss":"sound/ตีเกราะ/ตีเกราะ.mp3",
                 "swap":"0"
             }
         ],
@@ -6608,7 +6682,13 @@
                 "swap":"2"
             },
             {
-                "char": "ีย",
+                "char": "ี",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "ย",
                 "color": "green",
                 "sss":"vowel/เอีย.mp3",
                 "swap":"0"
@@ -6686,7 +6766,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/ทรามเชย/.mp3",
+                "sss":"sound/ทรามเชย/ทราม.mp3",
                 "swap":"0"
             },
             {
@@ -7926,7 +8006,13 @@
                 "swap":"2"
             },
             {
-                "char": "ีย",
+                "char": "ี",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "ย",
                 "color": "green",
                 "sss":"vowel/เอีย.mp3",
                 "swap":"0"
@@ -8058,7 +8144,13 @@
                 "swap":"2"
             },
             {
-                "char": "ีย",
+                "char": "ี",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "ย",
                 "color": "green",
                 "sss":"vowel/เอีย.mp3",
                 "swap":"0"
@@ -8114,7 +8206,13 @@
                 "swap":"2"
             },
             {
-                "char": "ือ",
+                "char": "ื",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "อ",
                 "color": "green",
                 "sss":"vowel/เอือ.mp3",
                 "swap":"0"
@@ -8152,7 +8250,13 @@
                 "swap":"2"
             },
             {
-                "char": "ือ",
+                "char": "ื",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "อ",
                 "color": "green",
                 "sss":"vowel/เอือ.mp3",
                 "swap":"0"
@@ -8388,7 +8492,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/ผลิ/.mp3",
+                "sss":"sound/ผลิ/ผลิ.mp3",
                 "swap":"0"
             }
         ],
@@ -8444,7 +8548,7 @@
             {
                 "char": "ไ",
                 "color": "green",
-                "sss":"vowel/ไอ.mp3",
+                "sss":"vowel/ไอย.mp3",
                 "swap":"2"
             },
             {
@@ -9012,8 +9116,8 @@
             {
                 "char": "้",
                 "color": "blue",
-                "sss":"sound/โพลเพล้/โท.mp3",
-                "swap":"1"
+                "sss":"sound/โพล้เพล้/โท.mp3",
+                "swap":"0"
             },
             {
                 "char": "",
@@ -9055,7 +9159,7 @@
                 "char": "้",
                 "color": "blue",
                 "sss":"sound/โพล้เพล้/โท.mp3",
-                "swap":"1"
+                "swap":"0"
             },
             {
                 "char": "",
@@ -9685,7 +9789,13 @@
                 "swap":"0"
             },
             {
-                "char": "ัว",
+                "char": "ั",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "ว",
                 "color": "green",
                 "sss":"vowel/อัว.mp3",
                 "swap":"0"

@@ -70,7 +70,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/ก้อนเมฆ/ก้อนเมก.mp3",
+                "sss":"sound/ก้อนเมฆ/ก้อนเมฆ.mp3",
                 "swap":"0"
             }
         ],
@@ -144,7 +144,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/ก้านธูป/ก้านธูบ.mp3",
+                "sss":"sound/ก้านธูป/ก้านธูป.mp3",
                 "swap":"0"
             }
         ],
@@ -200,7 +200,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/การคูณ/การคูน.mp3",
+                "sss":"sound/การคูณ/การคูณ.mp3",
                 "swap":"0"
             }
         ],
@@ -300,7 +300,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/กาล/กาน.mp3",
+                "sss":"sound/กาล/กาล.mp3",
                 "swap":"0"
             }
         ],
@@ -326,7 +326,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/กิจ/กิด.mp3",
+                "sss":"sound/กิจ/กิจ.mp3",
                 "swap":"0"
             }
         ],
@@ -359,7 +359,7 @@
                 "char": "โ",
                 "color": "green",
                 "sss":"vowel/โอ.mp3",
-                "swap":"0"
+                "swap":"1"
             },
             {
                 "char": "",
@@ -388,7 +388,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/กิโลเมตร/เมด.mp3",
+                "sss":"sound/กิโลเมตร/เมตร.mp3",
                 "swap":"0"
             },
             {
@@ -438,7 +438,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/กุมาร/มาน.mp3",
+                "sss":"sound/กุมาร/มาร.mp3",
                 "swap":"0"
             },
             {
@@ -470,7 +470,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/เกศ/เกด.mp3",
+                "sss":"sound/เกศ/เกศ.mp3",
                 "swap":"0"
             }
         ],
@@ -488,7 +488,13 @@
                 "swap":"1"
             },
             {
-                "char": "ือ",
+                "char": "ื",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "อ",
                 "color": "green",
                 "sss":"vowel/เอือ.mp3",
                 "swap":"0"
@@ -538,7 +544,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/เกื้อกูล/กูน.mp3",
+                "sss":"sound/เกื้อกูล/กูล.mp3",
                 "swap":"0"
             },
             {
@@ -568,7 +574,7 @@
                 "swap":"0"
             },
             {
-                "char": "ต",
+                "char": "ฏ",
                 "color": "black",
                 "sss":"consonant/ตอ.mp3",
                 "swap":"0"
@@ -582,13 +588,13 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/โกฏิ/ติ.mp3",
+                "sss":"sound/โกฏิ/ฏิ.mp3",
                 "swap":"0"
             },
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/โกฏิ/โกติ.mp3",
+                "sss":"sound/โกฏิ/โกฏิ.mp3",
                 "swap":"0"
             }
         ],
@@ -632,7 +638,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/ขอโทษ/โทด.mp3",
+                "sss":"sound/ขอโทษ/โทษ.mp3",
                 "swap":"0"
             },
             {
@@ -706,7 +712,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/ข่าวสาร/สาน.mp3",
+                "sss":"sound/ข่าวสาร/สาร.mp3",
                 "swap":"0"
             },
             {
@@ -766,7 +772,13 @@
                 "swap":"1"
             },
             {
-                "char": "ีย",
+                "char": "ี",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "ย",
                 "color": "green",
                 "sss":"vowel/เอีย.mp3",
                 "swap":"0"
@@ -780,7 +792,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/ขี้เกียจ/เกียด.mp3",
+                "sss":"sound/ขี้เกียจ/เกียจ.mp3",
                 "swap":"0"
             },
             {
@@ -868,7 +880,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/คาดการณ์/กาน.mp3",
+                "sss":"sound/คาดการณ์/การณ์.mp3",
                 "swap":"0"
             },
             {
@@ -918,7 +930,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/คำสาป/สาบ.mp3",
+                "sss":"sound/คำสาป/สาป.mp3",
                 "swap":"0"
             },
             {
@@ -950,7 +962,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/คุณค่า/คุน.mp3",
+                "sss":"sound/คุณค่า/คุณ.mp3",
                 "swap":"0"
             },
             {
@@ -978,7 +990,7 @@
                 "swap":"0"
             },
             {
-                "char": "",
+                "char": "่",
                 "color": "blue",
                 "sss":"sound/คุณค่า/เอก.mp3",
                 "swap":"1"
@@ -1062,7 +1074,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/งาสาร/สาน.mp3",
+                "sss":"sound/งาสาร/สาร.mp3",
                 "swap":"0"
             },
             {
@@ -1112,7 +1124,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/จารีต/รีด.mp3",
+                "sss":"sound/จารีต/รีต.mp3",
                 "swap":"0"
             },
             {
@@ -1236,7 +1248,13 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/เจ้าภาพ/พาบ.mp3",
+                "sss":"sound/เจ้าภาพ/ภาพ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เจ้าภาพ/เจ้าภาพ.mp3",
                 "swap":"0"
             }
 	    ],
@@ -1280,7 +1298,13 @@
                 "swap":"0"
             },
             {
-                "char": "ติ",
+                "char": "ต",
+                "color": "red",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "ิ",
                 "color": "red",
                 "sss":"consonant/ตอ.mp3",
                 "swap":"0"
@@ -1332,7 +1356,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/ชำนาญ/นาน.mp3",
+                "sss":"sound/ชำนาญ/นาญ.mp3",
                 "swap":"0"
             },
             {
@@ -1408,7 +1432,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/ชีวิต/วิด.mp3",
+                "sss":"sound/ชีวิต/วิต.mp3",
                 "swap":"0"
             }
         ],
@@ -1426,7 +1450,13 @@
                 "swap":"1"
             },
             {
-                "char": "ีย",
+                "char": "ี",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "ย",
                 "color": "green",
                 "sss":"vowel/เอีย.mp3",
                 "swap":"0"
@@ -1482,7 +1512,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/เชี่ยวชาญ/ชาน.mp3",
+                "sss":"sound/เชี่ยวชาญ/ชาญ.mp3",
                 "swap":"0"
             },
             {
@@ -1506,7 +1536,13 @@
                 "swap":"1"
             },
             {
-                "char": "ือ",
+                "char": "ื",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "อ",
                 "color": "green",
                 "sss":"vowel/เอือ.mp3",
                 "swap":"0"
@@ -1556,7 +1592,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/เชื้อโรค/โรก.mp3",
+                "sss":"sound/เชื้อโรค/โรค.mp3",
                 "swap":"0"
             },
             {
@@ -1588,7 +1624,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/โชคดี/โชก.mp3",
+                "sss":"sound/โชคดี/โชค.mp3",
                 "swap":"0"
             },
             {
@@ -1676,7 +1712,13 @@
                 "swap":"0"
             },
             {
-                "char": "ติ",
+                "char": "ต",
+                "color": "red",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "ิ",
                 "color": "red",
                 "sss":"consonant/ตอ.mp3",
                 "swap":"0"
@@ -1754,7 +1796,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/ทายาท/ยาด.mp3",
+                "sss":"sound/ทายาท/ยาท.mp3",
                 "swap":"0"
             },
             {
@@ -1914,7 +1956,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/เทเวศ/เวด.mp3",
+                "sss":"sound/เทเวศ/เวศ.mp3",
                 "swap":"0"
             },
             {
@@ -1972,7 +2014,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/ธารน้ำ/ทาน.mp3",
+                "sss":"sound/ธารน้ำ/ธาร.mp3",
                 "swap":"0"
             },
             {
@@ -2110,7 +2152,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/นิมิต/มิด.mp3",
+                "sss":"sound/นิมิต/มิต.mp3",
                 "swap":"0"
             },
             {
@@ -2160,7 +2202,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/นิราศ/ราด.mp3",
+                "sss":"sound/นิราศ/ราศ.mp3",
                 "swap":"0"
             },
             {
@@ -2288,7 +2330,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/บาดาล/ดาน.mp3",
+                "sss":"sound/บาดาล/ดาล.mp3",
                 "swap":"0"
             },
             {
@@ -2320,7 +2362,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/บาตรพระ/บาด.mp3",
+                "sss":"sound/บาตรพระ/บาตร.mp3",
                 "swap":"0"
             },
             {
@@ -2345,6 +2387,12 @@
                 "char": "",
                 "color": "",
                 "sss":"sound/บาตรพระ/พระ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/บาตรพระ/บาตรพระ.mp3",
                 "swap":"0"
             }
         ],
@@ -2440,7 +2488,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/บำนาญ/นาน.mp3",
+                "sss":"sound/บำนาญ/นาญ.mp3",
                 "swap":"0"
             },
             {
@@ -2524,7 +2572,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/บุปผา/บุบ.mp3",
+                "sss":"sound/บุปผา/บุป.mp3",
                 "swap":"0"
             },
             {
@@ -2568,7 +2616,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/โบราญ/โบ.mp3",
+                "sss":"sound/โบราณ/โบ.mp3",
                 "swap":"0"
             },
             {
@@ -2584,21 +2632,77 @@
                 "swap":"0"
             },
             {
-                "char": "ญ",
+                "char": "ณ",
                 "color": "red",
-                "sss":"consonant/ยอ.mp3",
+                "sss":"consonant/นอ.mp3",
                 "swap":"0"
             },
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/โบราญ/ราน.mp3",
+                "sss":"sound/โบราณ/ราณ.mp3",
                 "swap":"0"
             },
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/โบราญ/โบราญ.mp3",
+                "sss":"sound/โบราณ/โบราณ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ป",
+                "color": "black",
+                "sss":"consonant/ปอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "black",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ะ",
+                "color": "green",
+                "sss":"vowel/อะ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ประกาศ/ประ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ก",
+                "color": "black",
+                "sss":"consonant/กอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ศ",
+                "color": "red",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ประกาศ/กาศ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ประกาศ/ประกาศ.mp3",
                 "swap":"0"
             }
         ],
@@ -2704,7 +2808,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/ประเภท/เพด.mp3",
+                "sss":"sound/ประเภท/เพท.mp3",
                 "swap":"0"
             },
             {
@@ -2760,7 +2864,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/ประมาท/มาด.mp3",
+                "sss":"sound/ประมาท/มาท.mp3",
                 "swap":"0"
             },
             {
@@ -2816,7 +2920,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/ประมุข/มุก.mp3",
+                "sss":"sound/ประมุข/มุข.mp3",
                 "swap":"0"
             },
             {
@@ -2878,7 +2982,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/ประโยชน์/โยด.mp3",
+                "sss":"sound/ประโยชน์/โยชน์.mp3",
                 "swap":"0"
             },
             {
@@ -2934,13 +3038,13 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/ประสูติ/สูด.mp3",
+                "sss":"sound/ประสูติ/สูติ.mp3",
                 "swap":"0"
             },
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/ประสูติ/ประสูด.mp3",
+                "sss":"sound/ประสูติ/ประสูติ.mp3",
                 "swap":"0"
             }
         ],
@@ -2990,7 +3094,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/ปราสาท/สาด.mp3",
+                "sss":"sound/ปราสาท/สาท.mp3",
                 "swap":"0"
             },
             {
@@ -3066,7 +3170,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/พิฆาต/คาด.mp3",
+                "sss":"sound/พิฆาต/ฆาต.mp3",
                 "swap":"0"
             },
             {
@@ -3116,7 +3220,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/พินิจ/นิด.mp3",
+                "sss":"sound/พินิจ/นิจ.mp3",
                 "swap":"0"
             },
             {
@@ -3216,7 +3320,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/พิโรธ/โรด.mp3",
+                "sss":"sound/พิโรธ/โรธ.mp3",
                 "swap":"0"
             },
             {
@@ -3370,7 +3474,13 @@
                 "swap":"1"
             },
             {
-                "char": "ีย",
+                "char": "ี",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "ย",
                 "color": "green",
                 "sss":"vowel/เอีย.mp3",
                 "swap":"0"
@@ -3428,7 +3538,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/โพสพ/สบ.mp3",
+                "sss":"sound/โพสพ/สพ.mp3",
                 "swap":"0"
             },
             {
@@ -3840,7 +3950,13 @@
                 "swap":"1"
             },
             {
-                "char": "ีย",
+                "char": "ี",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "ย",
                 "color": "green",
                 "sss":"vowel/เอีย.mp3",
                 "swap":"0"
@@ -3904,7 +4020,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/สาบสูญ/สูน.mp3",
+                "sss":"sound/สาบสูญ/สูญ.mp3",
                 "swap":"0"
             },
             {
@@ -4014,33 +4130,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/ศุตร/สูตร.mp3",
-                "swap":"0"
-            }
-        ],
-        [
-            {
-                "char": "ส",
-                "color": "black",
-                "sss":"consonant/สอ.mp3",
-                "swap":"0"
-            },
-            {
-                "char": "เ",
-                "color": "green",
-                "sss":"vowel/เอ.mp3",
-                "swap":"1"
-            },
-            {
-                "char": "พ",
-                "color": "red",
-                "sss":"consonant/พอ.mp3",
-                "swap":"0"
-            },
-            {
-                "char": "",
-                "color": "",
-                "sss":"sound/เสพ/เสพ.mp3",
+                "sss":"sound/สูตร/สูตร.mp3",
                 "swap":"0"
             }
         ],
@@ -4240,7 +4330,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/อุทิศ/ทิด.mp3",
+                "sss":"sound/อุทิศ/ทิศ.mp3",
                 "swap":"0"
             },
             {
@@ -4290,7 +4380,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/โอกาส/กาด.mp3",
+                "sss":"sound/โอกาส/กาส.mp3",
                 "swap":"0"
             },
             {
