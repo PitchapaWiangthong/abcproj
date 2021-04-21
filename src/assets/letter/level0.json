@@ -1,0 +1,250 @@
+{
+    "level0":[
+        [
+            {
+                "char": "ค",
+                "color": "black",
+                "sss":"consonant/คอ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "-า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "้",
+                "color": "blue",
+                "sss":"sound/โท/โท.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+          {
+              "char": "ค",
+              "color": "black",
+              "sss":"consonant/คอ.mp3",
+              "swap":"0"
+          },
+          {
+              "char": "ำ",
+              "color": "green",
+              "sss":"vowel/อำ.mp3",
+              "swap":"0"
+          },
+          {
+              "char": "",
+              "color": "",
+              "sss":"sound/คำ/คำ.mp3",
+              "swap":"0"
+          }
+        ],
+        [
+            {
+                "char": "ค",
+                "color": "black",
+                "sss":"consonant/คอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "แ",
+                "color": "green",
+                "sss":"vowel/แอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/แค่/แค.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/แค่/แค.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "่",
+                "color": "blue",
+                "sss":"sound/แค่/เอก.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/แค่/แค่.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ค",
+                "color": "",
+                "sss":"consonant/คอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "อ",
+                "color": "green",
+                "sss":"vowel/ออ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "น",
+                "color": "red",
+                "sss":"consonant/นอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/คอน/คอน.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ด",
+                "color": "black",
+                "sss":"consonant/ดอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ิ",
+                "color": "green",
+                "sss":"vowel/อิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "น",
+                "color": "red",
+                "sss":"consonant/นอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ดิ้น/ดิน.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ดิ้น/ดิน.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "้",
+                "color": "blue",
+                "sss":"sound/ดิ้น/โท.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ดิ้น/ดิ้น.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            
+            {
+                "char": "ล",
+                "color": "black",
+                "sss":"consonant/ลอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "เ",
+                "color": "green",
+                "sss":"vowel/เอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "ข",
+                "color": "red",
+                "sss":"consonant/ขอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เลข/เลข.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            
+            {
+                "char": "ต",
+                "color": "black",
+                "sss":"consonant/ตอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "black",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "อ",
+                "color": "green",
+                "sss":"vowel/ออ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ง",
+                "color": "red",
+                "sss":"consonant/งอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ตรอง/ตรอง.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            
+            {
+                "char": "ห",
+                "color": "black",
+                "sss":"consonant/หอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ว",
+                "color": "black",
+                "sss":"consonant/วอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/เอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "น",
+                "color": "red",
+                "sss":"consonant/นอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/หวาน/หวาน.mp3",
+                "swap":"0"
+            }
+        ]
+    ]
+    
+}

@@ -1,0 +1,4306 @@
+{
+    "level7":[
+        [
+            {
+                "char": "ก",
+                "color": "black",
+                "sss":"consonant/กอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "อ",
+                "color": "green",
+                "sss":"vowel/ออ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "น",
+                "color": "red",
+                "sss":"consonant/นอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ก้อนเมฆ/กอน.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ก้อนเมฆ/กอน.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "้",
+                "color": "blue",
+                "sss":"sound/ก้อนเมฆ/โท.mp3",
+                "swap":"2"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ก้อนเมฆ/ก้อน.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ม",
+                "color": "black",
+                "sss":"consonant/มอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "เ",
+                "color": "green",
+                "sss":"vowel/เอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "ฆ",
+                "color": "red",
+                "sss":"consonant/คอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ก้อนเมฆ/เมฆ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ก้อนเมฆ/ก้อนเมก.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ก",
+                "color": "black",
+                "sss":"consonant/กอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "น",
+                "color": "red",
+                "sss":"consonant/นอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ก้านธูป/กาน.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ก้านธูป/กาน.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "้",
+                "color": "blue",
+                "sss":"sound/ก้านธูป/โท.mp3",
+                "swap":"2"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ก้าธูป/ก้าน.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ธ",
+                "color": "black",
+                "sss":"consonant/ธอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ู",
+                "color": "green",
+                "sss":"vowel/อู.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ป",
+                "color": "red",
+                "sss":"consonant/ปอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ก้านธูป/ธูป.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ก้านธูป/ก้านธูบ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ก",
+                "color": "black",
+                "sss":"consonant/กอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "red",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/การคูณ/การ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ค",
+                "color": "black",
+                "sss":"consonant/คอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ู",
+                "color": "green",
+                "sss":"vowel/อู.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ณ",
+                "color": "red",
+                "sss":"consonant/นอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/การคูณ/คูณ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/การคูณ/การคูน.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ก",
+                "color": "black",
+                "sss":"consonant/กอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "red",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/การบ้าน/การ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "บ",
+                "color": "black",
+                "sss":"consonant/บอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "น",
+                "color": "red",
+                "sss":"consonant/นอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/การบ้าน/บาน.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/การบ้าน/บาน.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "้",
+                "color": "blue",
+                "sss":"sound/การบ้าน/โท.mp3",
+                "swap":"2"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/การบ้าน/บ้าน.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/การบ้าน/การบ้าน.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ก",
+                "color": "black",
+                "sss":"consonant/กอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ล",
+                "color": "red",
+                "sss":"consonant/ลอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/กาล/กาน.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ก",
+                "color": "black",
+                "sss":"consonant/กอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ิ",
+                "color": "green",
+                "sss":"vowel/อิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "จ",
+                "color": "red",
+                "sss":"consonant/จอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/กิจ/กิด.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ก",
+                "color": "black",
+                "sss":"consonant/กอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ิ",
+                "color": "green",
+                "sss":"vowel/อิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/กิโลเมตร/กิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ล",
+                "color": "black",
+                "sss":"consonant/ลอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "โ",
+                "color": "green",
+                "sss":"vowel/โอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/กิโลเมตร/โล.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ม",
+                "color": "black",
+                "sss":"consonant/มอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "เ",
+                "color": "green",
+                "sss":"vowel/เอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "ตร",
+                "color": "red",
+                "sss":"consonant/ตอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/กิโลเมตร/เมด.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/กิโลเมตร/กิโลเมตร.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ก",
+                "color": "black",
+                "sss":"consonant/กอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ุ",
+                "color": "green",
+                "sss":"vowel/อุ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/กุมาร/กุ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ม",
+                "color": "black",
+                "sss":"consonant/มอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "red",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/กุมาร/มาน.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/กุมาร/กุมาร.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ก",
+                "color": "black",
+                "sss":"consonant/กอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "เ",
+                "color": "green",
+                "sss":"vowel/เอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "ศ",
+                "color": "red",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เกศ/เกด.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ก",
+                "color": "black",
+                "sss":"consonant/กอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "เ",
+                "color": "green",
+                "sss":"",
+                "swap":"1"
+            },
+            {
+                "char": "ือ",
+                "color": "green",
+                "sss":"vowel/เอือ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เกื้อกูล/เกือ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เกื้อกูล/เกือ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "้",
+                "color": "blue",
+                "sss":"sound/เกื้อกูล/โท.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เกื้อกูล/เกื้อ.mp3",
+                "swap":"0"
+	        },
+            {
+                "char": "ก",
+                "color": "black",
+                "sss":"consonant/กอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ู",
+                "color": "green",
+                "sss":"vowel/อู.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ล",
+                "color": "red",
+                "sss":"consonant/ลอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เกื้อกูล/กูน.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เกื้อกูล/เกื้อกูล.mp3",
+                "swap":"0"
+            }
+	    ],
+        [
+            {
+                "char": "ก",
+                "color": "black",
+                "sss":"consonant/กอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "โ",
+                "color": "green",
+                "sss":"vowel/โอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/โกฏิ/โก.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ต",
+                "color": "black",
+                "sss":"consonant/ตอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ิ",
+                "color": "green",
+                "sss":"vowel/อิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/โกฏิ/ติ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/โกฏิ/โกติ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ข",
+                "color": "black",
+                "sss":"consonant/ขอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "อ",
+                "color": "green",
+                "sss":"vowel/ออ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ขอโทษ/ขอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ท",
+                "color": "black",
+                "sss":"consonant/ทอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "โ",
+                "color": "green",
+                "sss":"vowel/โอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "ษ",
+                "color": "red",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ขอโทษ/โทด.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ขอโทษ/ขอโทษ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ข",
+                "color": "black",
+                "sss":"consonant/ขอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ว",
+                "color": "red",
+                "sss":"consonant/วอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ข่าวสาร/ขาว.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ข่าวสาร/ขาว.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "่",
+                "color": "blue",
+                "sss":"sound/ข่าวสาร/เอก.mp3",
+                "swap":"2"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ข่าวสาร/ข่าว.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ส",
+                "color": "black",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "red",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ข่าวสาร/สาน.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ข่าวสาร/ข่าวสาร.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ข",
+                "color": "black",
+                "sss":"consonant/ขอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ี",
+                "color": "green",
+                "sss":"vowel/อี.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ขี้เกียจ/ขี.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ขี้เกียจ/ขี.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "้",
+                "color": "blue",
+                "sss":"sound/ขี้เกียจ/โท.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ขี้เกียจ/ขี้.mp3",
+                "swap":"0"
+	        },
+            {
+                "char": "ก",
+                "color": "black",
+                "sss":"consonant/กอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "เ",
+                "color": "green",
+                "sss":"",
+                "swap":"1"
+            },
+            {
+                "char": "ีย",
+                "color": "green",
+                "sss":"vowel/เอีย.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "จ",
+                "color": "red",
+                "sss":"consonant/จอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ขี้เกียจ/เกียด.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ขี้เกียจ/ขี้เกียจ.mp3",
+                "swap":"0"
+            }
+	    ],
+        [
+            {
+                "char": "ข",
+                "color": "black",
+                "sss":"consonant/ขอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "เ",
+                "color": "green",
+                "sss":"vowel/เอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "ต",
+                "color": "red",
+                "sss":"consonant/ตอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เขต/เขด.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ค",
+                "color": "black",
+                "sss":"consonant/คอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ด",
+                "color": "red",
+                "sss":"consonant/ดอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/คาดการณ์/คาด.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ก",
+                "color": "black",
+                "sss":"consonant/กอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "red",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "ณ์",
+                "color": "yellow",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/คาดการณ์/กาน.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/คาดการณ์/คาดการณ์.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ค",
+                "color": "black",
+                "sss":"consonant/คอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ำ",
+                "color": "green",
+                "sss":"vowel/อำ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/คำสาป/คำ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ส",
+                "color": "black",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ป",
+                "color": "red",
+                "sss":"consonant/ปอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/คำสาป/สาบ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/คำสาป/คำสาป.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ค",
+                "color": "black",
+                "sss":"consonant/คอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ุ",
+                "color": "green",
+                "sss":"vowel/อุ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ณ",
+                "color": "red",
+                "sss":"consonant/นอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/คุณค่า/คุน.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ค",
+                "color": "black",
+                "sss":"consonant/คอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/คุณค่า/คา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/คุณค่า/คา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "blue",
+                "sss":"sound/คุณค่า/เอก.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/คุณค่า/ค่า.mp3",
+                "swap":"0"
+	        },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/คุณค่า/คุณค่า.mp3",
+                "swap":"0"
+	        }
+        ],
+        [
+            {
+                "char": "ค",
+                "color": "black",
+                "sss":"consonant/คอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ู",
+                "color": "green",
+                "sss":"vowel/อู.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ณ",
+                "color": "red",
+                "sss":"consonant/นอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/คูณ/คูณ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ง",
+                "color": "black",
+                "sss":"consonant/งอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/งาสาร/งา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ส",
+                "color": "black",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "red",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/งาสาร/สาน.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/งาสาร/งาสาร.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "จ",
+                "color": "black",
+                "sss":"consonant/จอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/จารีต/จา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "black",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ี",
+                "color": "green",
+                "sss":"vowel/อี.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ต",
+                "color": "red",
+                "sss":"consonant/ตอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/จารีต/รีด.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/จารีต/จารีต.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "จ",
+                "color": "black",
+                "sss":"consonant/จอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ิ",
+                "color": "green",
+                "sss":"vowel/อิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ต",
+                "color": "red",
+                "sss":"consonant/ตอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/จิตใจ/จิด.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "จ",
+                "color": "black",
+                "sss":"consonant/จอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ใ",
+                "color": "green",
+                "sss":"vowel/ไอย.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/จิตใจ/ใจ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/จิตใจ/จิตใจ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "จ",
+                "color": "black",
+                "sss":"consonant/จอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "เ",
+                "color": "green",
+                "sss":"",
+                "swap":"1"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/เอา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เจ้าภาพ/เจา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เจ้าภาพ/เจา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "้",
+                "color": "blue",
+                "sss":"sound/เจ้าภาพ/โท.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เจ้าภาพ/เจ้า.mp3",
+                "swap":"0"
+	        },
+            {
+                "char": "ภ",
+                "color": "black",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "พ",
+                "color": "red",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เจ้าภาพ/พาบ.mp3",
+                "swap":"0"
+            }
+	    ],
+        [
+            {
+                "char": "ช",
+                "color": "black",
+                "sss":"consonant/ชอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ญ",
+                "color": "red",
+                "sss":"consonant/ยอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ชาญ/ชาญ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ช",
+                "color": "black",
+                "sss":"consonant/ชอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ติ",
+                "color": "red",
+                "sss":"consonant/ตอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ชาติ/ชาติ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ช",
+                "color": "black",
+                "sss":"consonant/ชอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ำ",
+                "color": "green",
+                "sss":"vowel/อำ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ชำนาญ/ชำ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "น",
+                "color": "black",
+                "sss":"consonant/นอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ญ",
+                "color": "red",
+                "sss":"consonant/ยอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ชำนาญ/นาน.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ชำนาญ/ชำนาญ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ช",
+                "color": "black",
+                "sss":"consonant/ชอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ี",
+                "color": "green",
+                "sss":"vowel/อี.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "พ",
+                "color": "red",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ชีพ/ชีพ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ช",
+                "color": "black",
+                "sss":"consonant/ชอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ี",
+                "color": "green",
+                "sss":"vowel/อี.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ชีวิต/ชี.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ว",
+                "color": "black",
+                "sss":"consonant/วอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ิ",
+                "color": "green",
+                "sss":"vowel/อิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ต",
+                "color": "red",
+                "sss":"consonant/ตอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ชีวิต/วิด.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ช",
+                "color": "black",
+                "sss":"consonant/ชอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "เ",
+                "color": "green",
+                "sss":"",
+                "swap":"1"
+            },
+            {
+                "char": "ีย",
+                "color": "green",
+                "sss":"vowel/เอีย.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ว",
+                "color": "red",
+                "sss":"consonant/วอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เชี่ยวชาญ/เชียว.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เชี่ยวชาญ/เชียว.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "่",
+                "color": "blue",
+                "sss":"sound/เชี่ยวชาญ/เอก.mp3",
+                "swap":"2"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เชี่ยวชาญ/เชี่ยว.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ช",
+                "color": "black",
+                "sss":"consonant/ชอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ญ",
+                "color": "red",
+                "sss":"consonant/ยอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เชี่ยวชาญ/ชาน.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เชี่ยวชาญ/เชี่ยวชาญ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ช",
+                "color": "black",
+                "sss":"consonant/ชอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "เ",
+                "color": "green",
+                "sss":"",
+                "swap":"1"
+            },
+            {
+                "char": "ือ",
+                "color": "green",
+                "sss":"vowel/เอือ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เชื้อโรค/เชือ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เชื้อโรค/เชือ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "้",
+                "color": "blue",
+                "sss":"sound/เชื้อโรค/โท.mp3",
+                "swap":"2"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เชื้อโรค/เชื้อ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "black",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "โ",
+                "color": "green",
+                "sss":"vowel/โอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "ค",
+                "color": "red",
+                "sss":"consonant/คอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เชื้อโรค/โรก.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เชื้อโรค/เชื้อโรค.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ช",
+                "color": "black",
+                "sss":"consonant/ชอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "โ",
+                "color": "green",
+                "sss":"vowel/โอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "ค",
+                "color": "red",
+                "sss":"consonant/คอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/โชคดี/โชก.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ด",
+                "color": "black",
+                "sss":"consonant/ดอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ี",
+                "color": "green",
+                "sss":"vowel/อี.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/โชคดี/ดี.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ฌ",
+                "color": "black",
+                "sss":"consonant/ชอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ณ",
+                "color": "red",
+                "sss":"consonant/นอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ฌาณ/ฌาณ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ญ",
+                "color": "black",
+                "sss":"consonant/ยอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ณ",
+                "color": "red",
+                "sss":"consonant/นอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ญาณ/ญาณ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ญ",
+                "color": "black",
+                "sss":"consonant/ยอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ติ",
+                "color": "red",
+                "sss":"consonant/ตอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ญาติ/ญาติ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ด",
+                "color": "black",
+                "sss":"consonant/ดอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ุ",
+                "color": "green",
+                "sss":"vowel/อุ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "จ",
+                "color": "red",
+                "sss":"consonant/จอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ดุจ/ดุจ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ท",
+                "color": "black",
+                "sss":"consonant/ทอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ทายาท/ทา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ย",
+                "color": "black",
+                "sss":"consonant/ยอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ท",
+                "color": "red",
+                "sss":"consonant/ทอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ทายาท/ยาด.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ทายาท/ทายาท.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ท",
+                "color": "black",
+                "sss":"consonant/ทอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ส",
+                "color": "red",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ทาส/ทาส.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ท",
+                "color": "black",
+                "sss":"consonant/ทอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ิ",
+                "color": "green",
+                "sss":"vowel/อิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ศ",
+                "color": "red",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ทิศ/ทิศ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ท",
+                "color": "black",
+                "sss":"consonant/ทอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ุ",
+                "color": "green",
+                "sss":"vowel/อุ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ก",
+                "color": "red",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "ข์",
+                "color": "yellow",
+                "sss":"consonant/กอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ทุกข์/ทุกข์.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ท",
+                "color": "black",
+                "sss":"consonant/ทอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "เ",
+                "color": "green",
+                "sss":"vowel/เอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "พ",
+                "color": "red",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เทพ/เทพ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ท",
+                "color": "black",
+                "sss":"consonant/ทอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "เ",
+                "color": "green",
+                "sss":"vowel/เอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เทเวศ/เท.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ว",
+                "color": "black",
+                "sss":"consonant/วอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "เ",
+                "color": "green",
+                "sss":"vowel/เอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "ศ",
+                "color": "red",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เทเวศ/เวด.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เทเวศ/เทเวศ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ธ",
+                "color": "black",
+                "sss":"consonant/ทอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ตุ",
+                "color": "red",
+                "sss":"consonant/ตอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ธาตุ/ธาตุ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ธ",
+                "color": "black",
+                "sss":"consonant/ทอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "red",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ธารน้ำ/ทาน.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "น",
+                "color": "black",
+                "sss":"consonant/นอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ำ",
+                "color": "green",
+                "sss":"vowel/อำ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ธารน้ำ/นำ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ธารน้ำ/นำ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "้",
+                "color": "blue",
+                "sss":"sound/ธารน้ำ/โท.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ธารน้ำ/น้ำ.mp3",
+                "swap":"0"
+	        },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ธารน้ำ/ธารน้ำ.mp3",
+                "swap":"0"
+	        }
+        ],
+        [
+            {
+                "char": "ธ",
+                "color": "black",
+                "sss":"consonant/ธอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ู",
+                "color": "green",
+                "sss":"vowel/อู.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ป",
+                "color": "red",
+                "sss":"consonant/ปอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ธูป/ธูป.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "น",
+                "color": "black",
+                "sss":"consonant/นอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ค",
+                "color": "red",
+                "sss":"consonant/คอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/นาค/นาค.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "น",
+                "color": "black",
+                "sss":"consonant/นอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ิ",
+                "color": "green",
+                "sss":"vowel/อิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/นิมิต/นิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ม",
+                "color": "black",
+                "sss":"consonant/มอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ิ",
+                "color": "green",
+                "sss":"vowel/อิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ต",
+                "color": "red",
+                "sss":"consonant/ตอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/นิมิต/มิด.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/นิมิต/นิมิต.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "น",
+                "color": "black",
+                "sss":"consonant/นอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ิ",
+                "color": "green",
+                "sss":"vowel/อิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/นิราศ/นิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "black",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ศ",
+                "color": "red",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/นิราศ/ราด.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/นิราศ/นิราศ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "น",
+                "color": "black",
+                "sss":"consonant/นอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ิ",
+                "color": "green",
+                "sss":"vowel/อิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ล",
+                "color": "red",
+                "sss":"consonant/ลอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/นิล/นิล.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "น",
+                "color": "black",
+                "sss":"consonant/นอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "เ",
+                "color": "green",
+                "sss":"vowel/เอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "ตร",
+                "color": "red",
+                "sss":"consonant/ตอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เนตร/เนตร.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "บ",
+                "color": "black",
+                "sss":"consonant/บอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "อ",
+                "color": "green",
+                "sss":"vowel/ออ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ล",
+                "color": "red",
+                "sss":"consonant/ลอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/บอล/บอล.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "บ",
+                "color": "black",
+                "sss":"consonant/บอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/บาดาล/บา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ด",
+                "color": "black",
+                "sss":"consonant/ดอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ล",
+                "color": "red",
+                "sss":"consonant/ลอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/บาดาล/ดาน.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/บาดาล/บาดาล.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "บ",
+                "color": "black",
+                "sss":"consonant/บอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ตร",
+                "color": "red",
+                "sss":"consonant/ตอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/บาตรพระ/บาด.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "พ",
+                "color": "black",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "black",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ะ",
+                "color": "green",
+                "sss":"vowel/อะ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/บาตรพระ/พระ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "บ",
+                "color": "black",
+                "sss":"consonant/บอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ท",
+                "color": "red",
+                "sss":"consonant/ทอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/บาท/บาท.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "บ",
+                "color": "black",
+                "sss":"consonant/บอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ป",
+                "color": "red",
+                "sss":"consonant/ปอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/บาป/บาป.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "บ",
+                "color": "black",
+                "sss":"consonant/บอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ำ",
+                "color": "green",
+                "sss":"vowel/อำ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/บำนาญ/บำ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "น",
+                "color": "black",
+                "sss":"consonant/นอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ญ",
+                "color": "red",
+                "sss":"consonant/ยอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/บำนาญ/นาน.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/บำนาญ/บำนาญ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "บ",
+                "color": "black",
+                "sss":"consonant/บอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ุ",
+                "color": "green",
+                "sss":"vowel/อุ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ญ",
+                "color": "red",
+                "sss":"consonant/ยอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/บุญ/บุญ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "บ",
+                "color": "black",
+                "sss":"consonant/บอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ุ",
+                "color": "green",
+                "sss":"vowel/อุ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ตร",
+                "color": "red",
+                "sss":"consonant/ตอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/บุตร/บุตร.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "บ",
+                "color": "black",
+                "sss":"consonant/บอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ุ",
+                "color": "green",
+                "sss":"vowel/อุ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ป",
+                "color": "red",
+                "sss":"consonant/ปอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/บุปผา/บุบ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ผ",
+                "color": "black",
+                "sss":"consonant/ผอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/บุปผา/ผา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/บุปผา/บุปผา.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "บ",
+                "color": "black",
+                "sss":"consonant/บอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "โ",
+                "color": "green",
+                "sss":"vowel/โอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/โบราญ/โบ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "black",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ญ",
+                "color": "red",
+                "sss":"consonant/ยอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/โบราญ/ราน.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/โบราญ/โบราญ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ป",
+                "color": "black",
+                "sss":"consonant/ปอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "black",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ะ",
+                "color": "green",
+                "sss":"vowel/อะ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ประณีต/ประ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ณ",
+                "color": "black",
+                "sss":"consonant/นอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ี",
+                "color": "green",
+                "sss":"vowel/อี.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ต",
+                "color": "red",
+                "sss":"consonant/ตอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ประณีต/นีด.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ประณีต/ประณีต.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ป",
+                "color": "black",
+                "sss":"consonant/ปอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "black",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ะ",
+                "color": "green",
+                "sss":"vowel/อะ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ประเภท/ประ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ภ",
+                "color": "black",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "เ",
+                "color": "green",
+                "sss":"vowel/เอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "ท",
+                "color": "red",
+                "sss":"consonant/ทอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ประเภท/เพด.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ประเภท/ประเภท.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ป",
+                "color": "black",
+                "sss":"consonant/ปอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "black",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ะ",
+                "color": "green",
+                "sss":"vowel/อะ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ประมาท/ประ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ม",
+                "color": "black",
+                "sss":"consonant/มอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ท",
+                "color": "red",
+                "sss":"consonant/ทอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ประมาท/มาด.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ประมาท/ประมาท.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ป",
+                "color": "black",
+                "sss":"consonant/ปอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "black",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ะ",
+                "color": "green",
+                "sss":"vowel/อะ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ประมุข/ประ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ม",
+                "color": "black",
+                "sss":"consonant/มอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ุ",
+                "color": "green",
+                "sss":"vowel/อุ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ข",
+                "color": "red",
+                "sss":"consonant/ขอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ประมุข/มุก.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ประมุข/ประมุข.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ป",
+                "color": "black",
+                "sss":"consonant/ปอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "black",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ะ",
+                "color": "green",
+                "sss":"vowel/อะ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ประโยชน์/ประ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ย",
+                "color": "black",
+                "sss":"consonant/ยอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "โ",
+                "color": "green",
+                "sss":"vowel/โอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "ช",
+                "color": "red",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "น์",
+                "color": "yellow",
+                "sss":"consonant/ชอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ประโยชน์/โยด.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ประโยชน์/ประโยชน์.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ป",
+                "color": "black",
+                "sss":"consonant/ปอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "black",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ะ",
+                "color": "green",
+                "sss":"vowel/อะ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ประสูติ/ประ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ส",
+                "color": "black",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ู",
+                "color": "green",
+                "sss":"vowel/อู.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ติ",
+                "color": "red",
+                "sss":"consonant/ตอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ประสูติ/สูด.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ประสูติ/ประสูด.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ป",
+                "color": "black",
+                "sss":"consonant/ปอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "black",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ปราสาท/ปรา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ส",
+                "color": "black",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ท",
+                "color": "red",
+                "sss":"consonant/ทอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ปราสาท/สาด.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ปราสาท/ปราสาท.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "พ",
+                "color": "black",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ล",
+                "color": "red",
+                "sss":"consonant/ลอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/พาล/พาล.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "พ",
+                "color": "black",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ิ",
+                "color": "green",
+                "sss":"vowel/อิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/พิฆาต/พิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ฆ",
+                "color": "black",
+                "sss":"consonant/คอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ต",
+                "color": "red",
+                "sss":"consonant/ตอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/พิฆาต/คาด.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/พิฆาต/พิฆาต.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "พ",
+                "color": "black",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ิ",
+                "color": "green",
+                "sss":"vowel/อิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/พินิจ/พิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "น",
+                "color": "black",
+                "sss":"consonant/นอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ิ",
+                "color": "green",
+                "sss":"vowel/อิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "จ",
+                "color": "red",
+                "sss":"consonant/จอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/พินิจ/นิด.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/พินิจ/พินิจ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "พ",
+                "color": "black",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ิ",
+                "color": "green",
+                "sss":"vowel/อิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/พิรุธ/พิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "black",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ุ",
+                "color": "green",
+                "sss":"vowel/อุ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ธ",
+                "color": "red",
+                "sss":"consonant/ทอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/พิรุธ/รุธ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/พิรุธ/พิรุธ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "พ",
+                "color": "black",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ิ",
+                "color": "green",
+                "sss":"vowel/อิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/พิโรธ/พิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "black",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "โ",
+                "color": "green",
+                "sss":"vowel/โอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "ธ",
+                "color": "red",
+                "sss":"consonant/ทอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/พิโรธ/โรด.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/พิโรธ/พิโรธ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "พ",
+                "color": "black",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ิ",
+                "color": "green",
+                "sss":"vowel/อิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ศ",
+                "color": "red",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/พิศ/พิศ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "พ",
+                "color": "black",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ิ",
+                "color": "green",
+                "sss":"vowel/อิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ษ",
+                "color": "red",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/พิษ/พิษ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "พ",
+                "color": "black",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ื",
+                "color": "green",
+                "sss":"vowel/อือ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ช",
+                "color": "red",
+                "sss":"consonant/ชอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/พืช/พืช.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "พ",
+                "color": "black",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "เ",
+                "color": "green",
+                "sss":"vowel/เอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "ชร",
+                "color": "red",
+                "sss":"consonant/ชอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เพชร/เพชร.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "พ",
+                "color": "black",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "เ",
+                "color": "green",
+                "sss":"vowel/เอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "ศ",
+                "color": "red",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เพศ/เพศ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "พ",
+                "color": "black",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "เ",
+                "color": "green",
+                "sss":"",
+                "swap":"1"
+            },
+            {
+                "char": "ีย",
+                "color": "green",
+                "sss":"vowel/เอีย.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "red",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เพียร/เพียร.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "พ",
+                "color": "black",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "โ",
+                "color": "green",
+                "sss":"vowel/โอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/โพสพ/โพ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ส",
+                "color": "black",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"vowel/โอะ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "พ",
+                "color": "red",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/โพสพ/สบ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/โพสพ/โพสพ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ภ",
+                "color": "black",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "พ",
+                "color": "red",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ภาพ/ภาพ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ภ",
+                "color": "black",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ู",
+                "color": "green",
+                "sss":"vowel/อู.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ต",
+                "color": "red",
+                "sss":"consonant/ตอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ภูต/ภูต.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ม",
+                "color": "black",
+                "sss":"consonant/มอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "อ",
+                "color": "green",
+                "sss":"vowel/ออ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ญ",
+                "color": "red",
+                "sss":"consonant/ยอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/มอญ/มอญ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ม",
+                "color": "black",
+                "sss":"consonant/มอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ตร",
+                "color": "red",
+                "sss":"consonant/ตอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/มาตร/มาตร.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ม",
+                "color": "black",
+                "sss":"consonant/มอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "red",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/มาร/มาร.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ม",
+                "color": "black",
+                "sss":"consonant/มอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ิ",
+                "color": "green",
+                "sss":"vowel/อิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ตร",
+                "color": "red",
+                "sss":"consonant/ตอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/มิตร/มิตร.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ม",
+                "color": "black",
+                "sss":"consonant/มอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "เ",
+                "color": "green",
+                "sss":"vowel/เอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "รุ",
+                "color": "red",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เมรุ/เมรุ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ย",
+                "color": "black",
+                "sss":"consonant/ยอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ุ",
+                "color": "green",
+                "sss":"vowel/อุ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ค",
+                "color": "red",
+                "sss":"consonant/คอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ยุค/ยุค.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ร",
+                "color": "black",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ู",
+                "color": "green",
+                "sss":"vowel/อู.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ป",
+                "color": "red",
+                "sss":"consonant/ปอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/รูป/รูป.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ล",
+                "color": "black",
+                "sss":"consonant/ลอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "โ",
+                "color": "green",
+                "sss":"vowel/โอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "ภ",
+                "color": "red",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/โลภ/โลภ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ล",
+                "color": "black",
+                "sss":"consonant/ลอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "โ",
+                "color": "green",
+                "sss":"vowel/โอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/โลหิต/โล.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ห",
+                "color": "black",
+                "sss":"consonant/หอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ิ",
+                "color": "green",
+                "sss":"vowel/อิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ต",
+                "color": "red",
+                "sss":"consonant/ตอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/โลหิต/หิด.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/โลหิต/โลหิต.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ว",
+                "color": "black",
+                "sss":"consonant/วอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ุ",
+                "color": "green",
+                "sss":"vowel/อุ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ฒิ",
+                "color": "red",
+                "sss":"consonant/ทอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/วุฒิ/วุฒิ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ว",
+                "color": "black",
+                "sss":"consonant/วอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "เ",
+                "color": "green",
+                "sss":"vowel/เอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "ท",
+                "color": "red",
+                "sss":"consonant/ทอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เวท/เวท.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ศ",
+                "color": "black",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "เ",
+                "color": "green",
+                "sss":"vowel/เอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "ษ",
+                "color": "red",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เศษ/เศษ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ศ",
+                "color": "black",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "เ",
+                "color": "green",
+                "sss":"",
+                "swap":"1"
+            },
+            {
+                "char": "ีย",
+                "color": "green",
+                "sss":"vowel/เอีย.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "red",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เศียร/เศียร.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ส",
+                "color": "black",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "บ",
+                "color": "red",
+                "sss":"consonant/บอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/สาบสูญ/สาบ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ส",
+                "color": "black",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ู",
+                "color": "green",
+                "sss":"vowel/อู.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ญ",
+                "color": "red",
+                "sss":"consonant/ยอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/สาบสูญ/สูน.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/สาบสูญ/สาบสูญ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ส",
+                "color": "black",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ป",
+                "color": "red",
+                "sss":"consonant/ปอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/สาป/สาป.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ส",
+                "color": "black",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "red",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/สาร/สาร.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ส",
+                "color": "black",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ุ",
+                "color": "green",
+                "sss":"vowel/อุ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ข",
+                "color": "red",
+                "sss":"consonant/ขอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/สุข/สุข.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ส",
+                "color": "black",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ู",
+                "color": "green",
+                "sss":"vowel/อู.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ตร",
+                "color": "red",
+                "sss":"consonant/ตอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/ศุตร/สูตร.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ส",
+                "color": "black",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "เ",
+                "color": "green",
+                "sss":"vowel/เอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "พ",
+                "color": "red",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เสพ/เสพ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ส",
+                "color": "black",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "เ",
+                "color": "green",
+                "sss":"vowel/เอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "พ",
+                "color": "red",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เสพ/เสพ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ส",
+                "color": "black",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "โ",
+                "color": "green",
+                "sss":"vowel/โอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "ต",
+                "color": "red",
+                "sss":"consonant/ตอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/โสต/โสต.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ห",
+                "color": "black",
+                "sss":"consonant/หอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "red",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/หาร/หาร.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ห",
+                "color": "black",
+                "sss":"consonant/หอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "เ",
+                "color": "green",
+                "sss":"vowel/เอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "ตุ",
+                "color": "red",
+                "sss":"consonant/ตอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/เหตุ/เหตุ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "อ",
+                "color": "black",
+                "sss":"consonant/ออ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "จ",
+                "color": "red",
+                "sss":"consonant/จอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/อาจ/อาจ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "อ",
+                "color": "black",
+                "sss":"consonant/ออ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ิ",
+                "color": "green",
+                "sss":"vowel/อิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ฐ",
+                "color": "red",
+                "sss":"consonant/ถอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/อิฐ/อิฐ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "อ",
+                "color": "black",
+                "sss":"consonant/ออ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ุ",
+                "color": "green",
+                "sss":"vowel/อุ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/อุทิศ/อุ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ท",
+                "color": "black",
+                "sss":"consonant/ทอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ิ",
+                "color": "green",
+                "sss":"vowel/อิ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ศ",
+                "color": "red",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/อุทิศ/ทิด.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/อุทิศ/อุทิศ.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "อ",
+                "color": "black",
+                "sss":"consonant/ออ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "โ",
+                "color": "green",
+                "sss":"vowel/โอ.mp3",
+                "swap":"1"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/โอกาส/โอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ก",
+                "color": "black",
+                "sss":"consonant/กอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "า",
+                "color": "green",
+                "sss":"vowel/อา.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ส",
+                "color": "red",
+                "sss":"consonant/สอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/โอกาส/กาด.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/โอกาส/โอกาส.mp3",
+                "swap":"0"
+            }
+        ]
+
+
+    ]
+}
