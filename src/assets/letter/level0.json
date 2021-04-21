@@ -85,7 +85,7 @@
         [
             {
                 "char": "ค",
-                "color": "",
+                "color": "black",
                 "sss":"consonant/คอ.mp3",
                 "swap":"0"
             },
