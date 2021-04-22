@@ -1000,7 +1000,7 @@
                 "swap":"0"
             },
             {
-                "char": "",
+                "char": "ะ",
                 "color": "green",
                 "sss":"vowel/อะ.mp3",
                 "swap":"0"
@@ -4571,7 +4571,7 @@
                 "swap":"0"
             },
             {
-                "char": "",
+                "char": "้",
                 "color": "blue",
                 "sss":"sound/แพ้/โท.mp3",
                 "swap":"0"
@@ -4698,7 +4698,7 @@
 	        },
             
             {
-                "char": "",
+                "char": "ผ",
                 "color": "black",
                 "sss":"consonant/ผอ.mp3",
                 "swap":"0"
@@ -6398,7 +6398,7 @@
                 "swap":"0"
             },
             {
-                "char": "",
+                "char": "้",
                 "color": "blue",
                 "sss":"sound/ไว้/โท.mp3",
                 "swap":"0"
