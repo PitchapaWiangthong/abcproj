@@ -4,7 +4,7 @@
             {
                 "char": "ก",
                 "color": "black",
-                "sss":"consonant/กอ.mp3",
+                "source":"consonant/กอ.mp3",
                 "swap":"0"
               }
         ],
@@ -12,7 +12,7 @@
             {
                 "char": "ข",
                 "color": "black",
-                "sss":"consonant/ขอ.mp3",
+                "source":"consonant/ขอ.mp3",
                 "swap":"0"
               }
         ],
@@ -20,7 +20,7 @@
             {
                 "char": "ค",
                 "color": "black",
-                "sss":"consonant/คอ.mp3",
+                "source":"consonant/คอ.mp3",
                 "swap":"0"
               }
         ],
@@ -28,7 +28,7 @@
             {
                 "char": "ง",
                 "color": "black",
-                "sss":"consonant/งอ.mp3",
+                "source":"consonant/งอ.mp3",
                 "swap":"0"
               }
         ],
@@ -36,7 +36,7 @@
             {
                 "char": "จ",
                 "color": "black",
-                "sss":"consonant/จอ.mp3",
+                "source":"consonant/จอ.mp3",
                 "swap":"0"
               }
         ],
@@ -44,7 +44,7 @@
             {
                 "char": "ฉ",
                 "color": "black",
-                "sss":"consonant/ฉอ.mp3",
+                "source":"consonant/ฉอ.mp3",
                 "swap":"0"
               }
         ],
@@ -52,7 +52,7 @@
             {
                 "char": "ช",
                 "color": "black",
-                "sss":"consonant/ชอ.mp3",
+                "source":"consonant/ชอ.mp3",
                 "swap":"0"
               }
         ],
@@ -60,7 +60,7 @@
             {
                 "char": "ซ",
                 "color": "black",
-                "sss":"consonant/ซอ.mp3",
+                "source":"consonant/ซอ.mp3",
                 "swap":"0"
               }
         ],
@@ -68,7 +68,7 @@
             {
                 "char": "ด",
                 "color": "black",
-                "sss":"consonant/ดอ.mp3",
+                "source":"consonant/ดอ.mp3",
                 "swap":"0"
               }
         ],
@@ -76,7 +76,7 @@
             {
                 "char": "ต",
                 "color": "black",
-                "sss":"consonant/ตอ.mp3",
+                "source":"consonant/ตอ.mp3",
                 "swap":"0"
               }
         ],
@@ -84,7 +84,7 @@
             {
                 "char": "ถ",
                 "color": "black",
-                "sss":"consonant/ถอ.mp3",
+                "source":"consonant/ถอ.mp3",
                 "swap":"0"
               }
         ],
@@ -92,7 +92,7 @@
             {
                 "char": "ท",
                 "color": "black",
-                "sss":"consonant/ทอ.mp3",
+                "source":"consonant/ทอ.mp3",
                 "swap":"0"
               }
         ],
@@ -100,7 +100,7 @@
             {
                 "char": "น",
                 "color": "black",
-                "sss":"consonant/นอ.mp3",
+                "source":"consonant/นอ.mp3",
                 "swap":"0"
               }
         ],
@@ -108,7 +108,7 @@
             {
                 "char": "บ",
                 "color": "black",
-                "sss":"consonant/บอ.mp3",
+                "source":"consonant/บอ.mp3",
                 "swap":"0"
               }
         ],
@@ -116,7 +116,7 @@
             {
                 "char": "ป",
                 "color": "black",
-                "sss":"consonant/ปอ.mp3",
+                "source":"consonant/ปอ.mp3",
                 "swap":"0"
               }
         ],
@@ -124,7 +124,7 @@
             {
                 "char": "ผ",
                 "color": "black",
-                "sss":"consonant/ผอ.mp3",
+                "source":"consonant/ผอ.mp3",
                 "swap":"0"
               }
         ],
@@ -132,7 +132,7 @@
             {
                 "char": "ฝ",
                 "color": "black",
-                "sss":"consonant/ฝอ.mp3",
+                "source":"consonant/ฝอ.mp3",
                 "swap":"0"
               }
         ],
@@ -140,7 +140,7 @@
             {
                 "char": "พ",
                 "color": "black",
-                "sss":"consonant/พอ.mp3",
+                "source":"consonant/พอ.mp3",
                 "swap":"0"
               }
         ],
@@ -148,7 +148,7 @@
             {
                 "char": "ฟ",
                 "color": "black",
-                "sss":"consonant/ฟอ.mp3",
+                "source":"consonant/ฟอ.mp3",
                 "swap":"0"
               }
         ],
@@ -156,7 +156,7 @@
             {
                 "char": "ม",
                 "color": "black",
-                "sss":"consonant/มอ.mp3",
+                "source":"consonant/มอ.mp3",
                 "swap":"0"
               }
         ],
@@ -164,7 +164,7 @@
             {
                 "char": "ย",
                 "color": "black",
-                "sss":"consonant/ยอ.mp3",
+                "source":"consonant/ยอ.mp3",
                 "swap":"0"
               }
         ],
@@ -172,7 +172,7 @@
             {
                 "char": "ร",
                 "color": "black",
-                "sss":"consonant/รอ.mp3",
+                "source":"consonant/รอ.mp3",
                 "swap":"0"
               }
         ],
@@ -180,7 +180,7 @@
             {
                 "char": "ล",
                 "color": "black",
-                "sss":"consonant/ลอ.mp3",
+                "source":"consonant/ลอ.mp3",
                 "swap":"0"
               }
         ],
@@ -188,7 +188,7 @@
             {
                 "char": "ว",
                 "color": "black",
-                "sss":"consonant/วอ.mp3",
+                "source":"consonant/วอ.mp3",
                 "swap":"0"
               }
         ],
@@ -196,7 +196,7 @@
             {
                 "char": "ส",
                 "color": "black",
-                "sss":"consonant/สอ.mp3",
+                "source":"consonant/สอ.mp3",
                 "swap":"0"
               }
         ],
@@ -204,7 +204,7 @@
             {
                 "char": "ห",
                 "color": "black",
-                "sss":"consonant/หอ.mp3",
+                "source":"consonant/หอ.mp3",
                 "swap":"0"
               }
         ],
@@ -212,7 +212,7 @@
             {
                 "char": "อ",
                 "color": "black",
-                "sss":"consonant/ออ.mp3",
+                "source":"consonant/ออ.mp3",
                 "swap":"0"
               }
         ],
@@ -220,7 +220,7 @@
             {
                 "char": "ฮ",
                 "color": "black",
-                "sss":"consonant/ฮอ.mp3",
+                "source":"consonant/ฮอ.mp3",
                 "swap":"0"
               }
         ],
@@ -228,7 +228,7 @@
             {
                 "char": "ฃ",
                 "color": "black",
-                "sss":"consonant/ขอ.mp3",
+                "source":"consonant/ขอ.mp3",
                 "swap":"0"
               }
         ],
@@ -236,7 +236,7 @@
             {
                 "char": "ฅ",
                 "color": "black",
-                "sss":"consonant/คอ.mp3",
+                "source":"consonant/คอ.mp3",
                 "swap":"0"
               }
         ],
@@ -244,7 +244,7 @@
             {
                 "char": "ฆ",
                 "color": "black",
-                "sss":"consonant/คอ.mp3",
+                "source":"consonant/คอ.mp3",
                 "swap":"0"
               }
         ],
@@ -252,7 +252,7 @@
             {
                 "char": "ฑ",
                 "color": "black",
-                "sss":"consonant/คอ.mp3",
+                "source":"consonant/คอ.mp3",
                 "swap":"0"
               }
         ],
@@ -260,7 +260,7 @@
             {
                 "char": "ธ",
                 "color": "black",
-                "sss":"consonant/ทอ.mp3",
+                "source":"consonant/ทอ.mp3",
                 "swap":"0"
               }
         ],
@@ -268,7 +268,7 @@
             {
                 "char": "ภ",
                 "color": "black",
-                "sss":"consonant/พอ.mp3",
+                "source":"consonant/พอ.mp3",
                 "swap":"0"
               }
         ],
@@ -276,7 +276,7 @@
             {
                 "char": "ศ",
                 "color": "black",
-                "sss":"consonant/สอ.mp3",
+                "source":"consonant/สอ.mp3",
                 "swap":"0"
               }
         ],
@@ -284,7 +284,7 @@
             {
                 "char": "ษ",
                 "color": "black",
-                "sss":"consonant/สอ.mp3",
+                "source":"consonant/สอ.mp3",
                 "swap":"0"
               }
         ],
@@ -292,7 +292,7 @@
             {
                 "char": "ฬ",
                 "color": "black",
-                "sss":"consonant/ลอ.mp3",
+                "source":"consonant/ลอ.mp3",
                 "swap":"0"
               }
         ],
@@ -300,7 +300,7 @@
             {
                 "char": "ฌ",
                 "color": "black",
-                "sss":"consonant/ชอ.mp3",
+                "source":"consonant/ชอ.mp3",
                 "swap":"0"
               }
         ],
@@ -308,7 +308,7 @@
             {
                 "char": "ญ",
                 "color": "black",
-                "sss":"consonant/ยอ.mp3",
+                "source":"consonant/ยอ.mp3",
                 "swap":"0"
               }
         ],
@@ -316,7 +316,7 @@
             {
                 "char": "ฎ",
                 "color": "black",
-                "sss":"consonant/ดอ.mp3",
+                "source":"consonant/ดอ.mp3",
                 "swap":"0"
               }
         ],
@@ -324,7 +324,7 @@
             {
                 "char": "ฏ",
                 "color": "black",
-                "sss":"consonant/ตอ.mp3",
+                "source":"consonant/ตอ.mp3",
                 "swap":"0"
               }
         ],
@@ -332,7 +332,7 @@
             {
                 "char": "ฐ",
                 "color": "black",
-                "sss":"consonant/ถอ.mp3",
+                "source":"consonant/ถอ.mp3",
                 "swap":"0"
               }
         ],
@@ -340,7 +340,7 @@
             {
                 "char": "ฒ",
                 "color": "black",
-                "sss":"consonant/ทอ.mp3",
+                "source":"consonant/ทอ.mp3",
                 "swap":"0"
               }
         ],
@@ -348,7 +348,7 @@
             {
                 "char": "ณ",
                 "color": "black",
-                "sss":"consonant/นอ.mp3",
+                "source":"consonant/นอ.mp3",
                 "swap":"0"
               }
         ]

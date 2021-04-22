@@ -4,7 +4,7 @@
             {
                 "char": "ฦๅ",
                 "color": "green",
-                "sss":"vowel/ภา.mp3",
+                "source":"vowel/ภา.mp3",
                 "swap":"0"
             }
         ],
@@ -12,7 +12,7 @@
             {
                 "char": "ฦ",
                 "color": "green",
-                "sss":"vowel/ภ.mp3",
+                "source":"vowel/ภ.mp3",
                 "swap":"0"
             }
         ],
@@ -20,7 +20,7 @@
             {
                 "char": "ฤๅ",
                 "color": "green",
-                "sss":"vowel/ฤา.mp3",
+                "source":"vowel/ฤา.mp3",
                 "swap":"0"
             }
         ],
@@ -28,7 +28,7 @@
             {
                 "char": "ฤ",
                 "color": "green",
-                "sss":"vowel/ฤ.mp3",
+                "source":"vowel/ฤ.mp3",
                 "swap":"0"
             }
         ],
@@ -36,7 +36,7 @@
             {
                 "char": "-อ",
                 "color": "green",
-                "sss":"vowel/ออ.mp3",
+                "source":"vowel/ออ.mp3",
                 "swap":"0"
             }
         ],
@@ -44,7 +44,7 @@
             {
                 "char": "-ะ",
                 "color": "green",
-                "sss":"vowel/อะ.mp3",
+                "source":"vowel/อะ.mp3",
                 "swap":"0"
             }
         ],
@@ -52,7 +52,7 @@
             {
                 "char": "-ัวะ",
                 "color": "green",
-                "sss":"vowel/อัวะ.mp3",
+                "source":"vowel/อัวะ.mp3",
                 "swap":"0"
             }
         ],
@@ -60,7 +60,7 @@
             {
                 "char": "-ัว",
                 "color": "green",
-                "sss":"vowel/อัว.mp3",
+                "source":"vowel/อัว.mp3",
                 "swap":"0"
             }
         ],
@@ -68,7 +68,7 @@
             {
                 "char": "-ำ",
                 "color": "green",
-                "sss":"vowel/อำ.mp3",
+                "source":"vowel/อำ.mp3",
                 "swap":"0"
             }
         ],
@@ -76,7 +76,7 @@
             {
                 "char": "-า",
                 "color": "green",
-                "sss":"vowel/อา.mp3",
+                "source":"vowel/อา.mp3",
                 "swap":"0"
             }
         ],
@@ -84,7 +84,7 @@
             {
                 "char": "-ิ",
                 "color": "green",
-                "sss":"vowel/อิ.mp3",
+                "source":"vowel/อิ.mp3",
                 "swap":"0"
             }
         ],
@@ -92,7 +92,7 @@
             {
                 "char": "-ี",
                 "color": "green",
-                "sss":"vowel/อี.mp3",
+                "source":"vowel/อี.mp3",
                 "swap":"0"
             }
         ],
@@ -100,7 +100,7 @@
             {
                 "char": "-ึ",
                 "color": "green",
-                "sss":"vowel/อึ.mp3",
+                "source":"vowel/อึ.mp3",
                 "swap":"0"
             }
         ],
@@ -108,7 +108,7 @@
             {
                 "char": "-ื",
                 "color": "green",
-                "sss":"vowel/อือ.mp3",
+                "source":"vowel/อือ.mp3",
                 "swap":"0"
             }
         ],
@@ -116,7 +116,7 @@
             {
                 "char": "-ุ",
                 "color": "green",
-                "sss":"vowel/อุ.mp3",
+                "source":"vowel/อุ.mp3",
                 "swap":"0"
             }
         ],
@@ -124,7 +124,7 @@
             {
                 "char": "-ู",
                 "color": "green",
-                "sss":"vowel/อู.mp3",
+                "source":"vowel/อู.mp3",
                 "swap":"0"
             }
         ],
@@ -132,7 +132,7 @@
             {
                 "char": "เ-อะ",
                 "color": "green",
-                "sss":"vowel/เออะ.mp3",
+                "source":"vowel/เออะ.mp3",
                 "swap":"0"
             }
         ],
@@ -140,7 +140,7 @@
             {
                 "char": "เ-อ",
                 "color": "green",
-                "sss":"vowel/เออ.mp3",
+                "source":"vowel/เออ.mp3",
                 "swap":"0"
             }
         ],
@@ -148,7 +148,7 @@
             {
                 "char": "เ-ะ",
                 "color": "green",
-                "sss":"vowel/เอะ.mp3",
+                "source":"vowel/เอะ.mp3",
                 "swap":"0"
             }
         ],
@@ -156,7 +156,7 @@
             {
                 "char": "เ-าะ",
                 "color": "green",
-                "sss":"vowel/เอาะ.mp3",
+                "source":"vowel/เอาะ.mp3",
                 "swap":"0"
             }
         ],
@@ -164,7 +164,7 @@
             {
                 "char": "เ-า",
                 "color": "green",
-                "sss":"vowel/เอา.mp3",
+                "source":"vowel/เอา.mp3",
                 "swap":"0"
             }
         ],
@@ -172,7 +172,7 @@
             {
                 "char": "เ-ียะ",
                 "color": "green",
-                "sss":"vowel/เอียะ.mp3",
+                "source":"vowel/เอียะ.mp3",
                 "swap":"0"
             }
         ],
@@ -180,7 +180,7 @@
             {
                 "char": "เ-ีย",
                 "color": "green",
-                "sss":"vowel/เอีย.mp3",
+                "source":"vowel/เอีย.mp3",
                 "swap":"0"
             }
         ],
@@ -188,7 +188,7 @@
             {
                 "char": "เ-ือะ",
                 "color": "green",
-                "sss":"vowel/เอือะ.mp3",
+                "source":"vowel/เอือะ.mp3",
                 "swap":"0"
             }
         ],
@@ -196,7 +196,7 @@
             {
                 "char": "เ-ือ",
                 "color": "green",
-                "sss":"vowel/เอือ.mp3",
+                "source":"vowel/เอือ.mp3",
                 "swap":"0"
             }
         ],
@@ -204,7 +204,7 @@
             {
                 "char": "เ-",
                 "color": "green",
-                "sss":"vowel/เอ.mp3",
+                "source":"vowel/เอ.mp3",
                 "swap":"0"
             }
         ],
@@ -212,7 +212,7 @@
             {
                 "char": "แ-ะ",
                 "color": "green",
-                "sss":"vowel/แอะ.mp3",
+                "source":"vowel/แอะ.mp3",
                 "swap":"0"
             }
         ],
@@ -220,7 +220,7 @@
             {
                 "char": "แ-",
                 "color": "green",
-                "sss":"vowel/แอ.mp3",
+                "source":"vowel/แอ.mp3",
                 "swap":"0"
             }
         ],
@@ -228,7 +228,7 @@
             {
                 "char": "โ-ะ",
                 "color": "green",
-                "sss":"vowel/โอะ.mp3",
+                "source":"vowel/โอะ.mp3",
                 "swap":"0"
             }
         ],
@@ -236,7 +236,7 @@
             {
                 "char": "โ-",
                 "color": "green",
-                "sss":"vowel/โอ.mp3",
+                "source":"vowel/โอ.mp3",
                 "swap":"0"
             }
         ],
@@ -244,7 +244,15 @@
             {
                 "char": "ไ-",
                 "color": "green",
-                "sss":"vowel/ไอย.mp3",
+                "source":"vowel/ไอย.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "ใ-",
+                "color": "green",
+                "source":"vowel/ไอย.mp3",
                 "swap":"0"
             }
         ]
