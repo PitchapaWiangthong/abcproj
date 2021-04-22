@@ -2545,7 +2545,7 @@
                 "char": "แ",
                 "color": "green",
                 "sss":"vowel/แอ.mp3",
-                "swap":"0"
+                "swap":"1"
             },
             {
                 "char": "",
@@ -3825,6 +3825,12 @@
             },
             {
                 "char": "ื",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "อ",
                 "color": "green",
                 "sss":"vowel/อือ.mp3",
                 "swap":"0"
