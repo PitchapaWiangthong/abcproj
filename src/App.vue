@@ -472,9 +472,8 @@ export default {
               this.thisString[index+1] === "ึ" ||
               this.thisString[index+1] === "ื" ||
               this.thisString[index+1] === "ั" ||
-              this.thisString[index+1] === "็" ||
-              this.thisString[index+1] === "ุ" || 
-              this.thisString[index+1] === "ู"){
+              this.thisString[index+1] === "็"
+              ){
                 if( this.thisString[index] ==='ป' ||  //แล้วถ้าตัวนนั้นๆเสือกเป็นพยัญชนะยาวๆ ก็ให้ระยะห่างมันติดลบสะหน่อย
                     this.thisString[index] ==='ฝ' ||
                     this.thisString[index] ==='ฬ' ||
@@ -499,6 +498,16 @@ export default {
                   lastString.push(lastStrings);
                 }
 
+          }
+          else if(this.thisString[index+1] === "ุ" || 
+              this.thisString[index+1] === "ู"){
+                let lastStrings =
+                    "<strong class='strongID2' style='font-size:"+(this.percent(this.fontSize , 100.5 )) +"px; font-weight: 401 !important; color: " +
+                    this.coloredString[index] +
+                    ";'>" +
+                    this.thisString[index] +
+                    "</strong>";
+                  lastString.push(lastStrings);
           }
 
           else{ //ถ้าเกิดไอพวกตัวด้านหลังเป็นพยัญชนะโง่ๆ ก็ให้มันขยับไป 40 px 

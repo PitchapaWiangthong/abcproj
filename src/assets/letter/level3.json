@@ -5416,7 +5416,7 @@
                 "swap":"1"
             },
             {
-                "char": "อะ",
+                "char": "ะ",
                 "color": "green",
                 "sss":"vowel/แอะ.mp3",
                 "swap":"0"
@@ -6232,7 +6232,13 @@
                 "swap":"1"
             },
             {
-                "char": "ือ",
+                "char": "ื",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "อ",
                 "color": "green",
                 "sss":"vowel/เอือ.mp3",
                 "swap":"0"
@@ -7090,7 +7096,13 @@
                 "swap":"1"
             },
             {
-                "char": "ือ",
+                "char": "ื",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "อ",
                 "color": "green",
                 "sss":"vowel/เอือ.mp3",
                 "swap":"0"
@@ -7402,7 +7414,13 @@
                 "swap":"1"
             },
             {
-                "char": "ีย",
+                "char": "ี",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "ย",
                 "color": "green",
                 "sss":"vowel/เอีย.mp3",
                 "swap":"0"
@@ -7956,9 +7974,9 @@
         ],
         [
             {
-                "char": "",
+                "char": "ย",
                 "color": "black",
-                "sss":"consonant/อ.mp3",
+                "sss":"consonant/ยอ.mp3",
                 "swap":"0"
             },
             {
@@ -7982,9 +8000,9 @@
         ],
         [
             {
-                "char": "",
+                "char": "ย",
                 "color": "black",
-                "sss":"consonant/อ.mp3",
+                "sss":"consonant/ยอ.mp3",
                 "swap":"0"
             },
             {
@@ -8008,9 +8026,9 @@
         ],
         [
             {
-                "char": "",
+                "char": "ย",
                 "color": "black",
-                "sss":"consonant/อ.mp3",
+                "sss":"consonant/ยอ.mp3",
                 "swap":"0"
             },
             {
@@ -8040,9 +8058,9 @@
         ],
         [
             {
-                "char": "",
+                "char": "ย",
                 "color": "black",
-                "sss":"consonant/อ.mp3",
+                "sss":"consonant/ยอ.mp3",
                 "swap":"0"
             },
             {
