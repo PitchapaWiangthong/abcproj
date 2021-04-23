@@ -71,7 +71,7 @@
             },
             {
                 "char": "บ",
-                "color": "black",
+                "color": "red",
                 "sss":"consonant/บอ.mp3",
                 "swap":"0"
             },
@@ -4121,12 +4121,6 @@
             },
             {
                 "char": "อ",
-                "color": "green",
-                "sss":"vowel/เอือ.mp3",
-                "swap":"0"
-            },
-            {
-                "char": "ือ",
                 "color": "green",
                 "sss":"vowel/เอือ.mp3",
                 "swap":"0"

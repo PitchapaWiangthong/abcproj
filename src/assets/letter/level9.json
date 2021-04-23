@@ -796,7 +796,7 @@
                 "swap":"0"
             },
             {
-                "char": "",
+                "char": "้",
                 "color": "blue",
                 "sss":"sound/ขยุ้ม/โท.mp3",
                 "swap":"1"
@@ -2388,7 +2388,7 @@
                 "swap":"0"
             },
             {
-                "char": "",
+                "char": "า",
                 "color": "green",
                 "sss":"vowel/อา.mp3",
                 "swap":"0"
@@ -5204,7 +5204,7 @@
                 "swap":"0"
             },
             {
-                "char": "",
+                "char": "่",
                 "color": "blue",
                 "sss":"sound/เหยื่อ/เอก.mp3",
                 "swap":"1"

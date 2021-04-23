@@ -1289,7 +1289,7 @@
                 "char": "้",
                 "color": "blue",
                 "sss":"sound/ค้าง/โท.mp3",
-                "swap":"1"
+                "swap":"2"
             },
             {
                 "char": "",
@@ -4799,7 +4799,7 @@
                 "swap":"0"
             },
             {
-                "char": "",
+                "char": "่",
                 "color": "blue",
                 "sss":"sound/นิ่ม/เอก.mp3",
                 "swap":"1"
@@ -5291,7 +5291,7 @@
                 "swap":"0"
             },
             {
-                "char": "",
+                "char": "่",
                 "color": "blue",
                 "sss":"sound/บิ่น/เอก.mp3",
                 "swap":"1"

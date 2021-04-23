@@ -300,7 +300,13 @@
                 "swap":"0"
             },
             {
-                "char": "ัว",
+                "char": "ั",
+                "color": "green",
+                "sss":"",
+                "swap":"0"
+            },
+            {
+                "char": "ว",
                 "color": "green",
                 "sss":"vowel/อัว.mp3",
                 "swap":"0"
@@ -1366,25 +1372,25 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/กรุ้งกริ้ง/กรุง.mp3",
+                "sss":"sound/กรุ๋งกริ๋ง/กรุง.mp3",
                 "swap":"0"
             },
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/กรุ้งกริ้ง/กรุง.mp3",
+                "sss":"sound/กรุ๋งกริ๋ง/กรุง.mp3",
                 "swap":"0"
             },
             {
-                "char": "้",
+                "char": "๋",
                 "color": "blue",
-                "sss":"sound/กรุ้งกริ้ง/โท.mp3",
+                "sss":"sound/กรุ๋งกริ๋ง/โท.mp3",
                 "swap":"1"
             },
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/กรุ้งกริ้ง/กรุ้ง.mp3",
+                "sss":"sound/กรุ๋งกริ๋ง/กรุ๋ง.mp3",
                 "swap":"0"
             },
             {
@@ -1414,31 +1420,31 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/กรุ้งกริ้ง/กริง.mp3",
+                "sss":"sound/กรุ๋งกริ๋ง/กริง.mp3",
                 "swap":"0"
             },
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/กรุ้งกริ้ง/กริง.mp3",
+                "sss":"sound/กรุ๋งกริ๋ง/กริง.mp3",
                 "swap":"0"
             },
             {
-                "char": "้",
+                "char": "๋",
                 "color": "blue",
-                "sss":"sound/กรุ้งกริ้ง/โท.mp3",
+                "sss":"sound/กรุ๋งกริ๋ง/โท.mp3",
                 "swap":"1"
             },
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/กรุ้งกริ้ง/กริ้ง.mp3",
+                "sss":"sound/กรุ๋งกริ๋ง/กริ๋ง.mp3",
                 "swap":"0"
             },
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/กรุ้งกริ้ง/กรุ้งกริ้ง.mp3",
+                "sss":"sound/กรุ๋งกริ๋ง/กรุ๋งกริ๋ง.mp3",
                 "swap":"0"
             }
         ],
@@ -2842,7 +2848,7 @@
                 "swap":"0"
             },
             {
-                "char": "้",
+                "char": "่",
                 "color": "blue",
                 "sss":"sound/ไกล่เกลี่ย/เอก.mp3",
                 "swap":"0"
@@ -5531,7 +5537,7 @@
                 "char": "่",
                 "color": "blue",
                 "sss":"sound/แคร่/เอก.mp3",
-                "swap":"1"
+                "swap":"0"
             },
             {
                 "char": "",
@@ -6504,7 +6510,7 @@
             {
                 "char": "",
                 "color": "",
-                "sss":"sound/ตะไคร่/ตะ.mp3",
+                "sss":"sound/ตะไคร้/ตะ.mp3",
                 "swap":"0"
             },
             {
@@ -6538,7 +6544,7 @@
                 "swap":"0"
             },
             {
-                "char": "่",
+                "char": "้",
                 "color": "blue",
                 "sss":"sound/ตะไคร้/โท.mp3",
                 "swap":"0"
@@ -8796,6 +8802,56 @@
                 "swap":"0"
             },
             {
+                "char": "ง",
+                "color": "red",
+                "sss":"consonant/งอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/พร้อง/พรอง.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/พร้อง/พรอง.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "้",
+                "color": "blue",
+                "sss":"sound/พร้อง/โท.mp3",
+                "swap":"2"
+            },
+            {
+                "char": "",
+                "color": "",
+                "sss":"sound/พร้อง/พร้อง.mp3",
+                "swap":"0"
+            }
+        ],
+        [
+            {
+                "char": "พ",
+                "color": "black",
+                "sss":"consonant/พอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "ร",
+                "color": "black",
+                "sss":"consonant/รอ.mp3",
+                "swap":"0"
+            },
+            {
+                "char": "อ",
+                "color": "green",
+                "sss":"vowel/ออ.mp3",
+                "swap":"0"
+            },
+            {
                 "char": "ม",
                 "color": "red",
                 "sss":"consonant/มอ.mp3",
@@ -9285,7 +9341,7 @@
                 "char": "่",
                 "color": "blue",
                 "sss":"sound/ไพล่/เอก.mp3",
-                "swap":"1"
+                "swap":"0"
             },
             {
                 "char": "",
